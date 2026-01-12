@@ -1,4 +1,4 @@
-Okere Amarachi Mercy 👋
+# Okere Amarachi Mercy 👋
 
 **Cloud & DevOps Engineer | AWS | Azure | Kubernetes | Terraform | CI/CD | IaC**
 Automating scalable, reliable cloud infrastructure.
@@ -12,6 +12,8 @@ Automating scalable, reliable cloud infrastructure.
   <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-Automation-success" />
+  <img src="https://img.shields.io/badge/Ansible-Automation-red?logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-CI/CD-0078D7?logo=azuredevops&logoColor=white" />
 </p>
 
 ---
@@ -30,16 +32,16 @@ I am passionate about continuous learning, infrastructure as code, and building 
 AWS, Azure
 
 **DevOps & Infrastructure**
-Linux, Docker, Kubernetes, Terraform, CI/CD
+Linux, Docker, Kubernetes, Terraform, CI/CD, Ansible, Azure DevOps
 
 **Infrastructure as Code (IaC)**
-Terraform
+Terraform, Ansible
 
 **CI/CD Tools**
-GitHub Actions, GitLab CI/CD
+GitHub Actions, GitLab CI/CD, Azure DevOps
 
 **Programming & Scripting**
-Python, Bash
+Bash
 
 **Version Control**
 Git, GitHub
@@ -51,10 +53,13 @@ HTML, CSS
 
 ## 📦 Projects & Repositories
 
-* **python-for-devops** – Learning Python from a DevOps perspective
-* **EpicBook Deployment** – Infrastructure deployment using Terraform
-* **Mini-finance Deploy** – Static website deployment with Ansible
-* **Sites** – Static web projects using HTML & CSS
+* **login-signup-form** – Responsive login & sign-up page with modern UI design using HTML & CSS
+* **kube-matrix-2** – Forked Kubernetes practice project
+* **aws-three-tier-bankapp-infra** – Infrastructure setup for three-tier banking application on AWS
+* **theepicbook-capstone** – Production-ready Docker Compose deployment of The EpicBook app
+* **Epicbook-app-dev** – Ansible playbooks and roles for EpicBook deployment
+* **AZURE-INFRA-VM** – Terraform configuration to deploy multiple Linux VMs in Azure
+* **Mini-fianance-deploy** – Deploying a static website using Ansible
 
 ---
 
