@@ -57,15 +57,6 @@ I am passionate about continuous learning, infrastructure as code, and building 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amaramercy&show_icons=true&hide_title=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaramercy" />
-</p>
-
----
-
 ## 📫 Contact
 
 📧 Email: [amaramercy27@gmail.com](mailto:amaramercy27@gmail.com)
