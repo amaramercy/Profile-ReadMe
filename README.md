@@ -42,6 +42,10 @@ I am passionate about continuous learning, infrastructure as code, and building 
 
 **Web Basics:** HTML, CSS
 
+**Identity Access Management:** IAM, SAML, OAuth2, OIDC
+
+**Collaboration Tools:** Zoom, Slack, Discord, Jira
+
 ---
 
 ## 📦 Top Projects
@@ -56,6 +60,7 @@ I am passionate about continuous learning, infrastructure as code, and building 
 * **kube-matrix-2** – <b>Kubernetes</b>: Forked Kubernetes practice project
 
 ---
+
 
 ## 📫 Contact
 
