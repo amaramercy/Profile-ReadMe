@@ -1,7 +1,7 @@
 # Okere Amarachi Mercy 👋
 
 **Cloud & DevOps Engineer | AWS | Azure | Kubernetes | Terraform | CI/CD | IaC**
-Automating scalable, reliable cloud infrastructure.
+Automating scalable, reliable cloud infrastructure
 
 [LinkedIn](https://www.linkedin.com/in/amarachimercyokere) • [Medium](https://medium.com/@amaramercy27) • [Email](mailto:amaramercy27@gmail.com)
 
